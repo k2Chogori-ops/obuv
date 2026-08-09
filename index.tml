@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Как убрать запах в обуви за 5 минут — таблица</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 700px; margin: 20px auto; padding: 15px; background: #f9f9f9; }
+        h1 { color: #222; }
+        table { width: 100%; border-collapse: collapse; background: white; }
+        td, th { border: 1px solid #ccc; padding: 14px; text-align: left; }
+        th { background: #e0e0e0; }
+        .tip { background: #e6f4ea; padding: 15px; border-radius: 8px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>🦶 Топ-3 способа убрать запах в обуви за 5 минут</h1>
+    <p>Никакой химии. Всё есть на кухне.</p>
+    <table>
+        <tr><th>Способ</th><th>Что нужно</th><th>Время</th></tr>
+        <tr><td><b>Сода + лавровый лист</b></td><td>Сода, 2 сухих лавровых листа</td><td>5 мин</td></tr>
+        <tr><td><b>Заморозка</b></td><td>Пакет для продуктов, морозилка</td><td>2 мин (ждать ночь)</td></tr>
+        <tr><td><b>Чайный пакетик</b></td><td>2 использованных чёрных чайных пакетика (высушенных)</td><td>3 мин</td></tr>
+    </table>
+    <div class="tip">
+        <b>⭐ Лайфхак:</b> Если пятна пота на белой рубашке — смешай соду и перекись водорода 2:1, нанеси на 20 мин. Смывай холодной водой.
+    </div>
+    <p style="color:gray; font-size:14px;">Проверено лично. Делитесь в комментариях, какой способ сработал у вас.</p>
+</body>
+</html>
